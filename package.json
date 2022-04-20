@@ -1,6 +1,6 @@
 {
   "name": "mansouri-my-exercices",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "exercices nodeJS",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,5 @@
     "url": "https://github.com/Zewa-hub/mansouri-my-exercices/issues"
   },
   "homepage": "https://github.com/Zewa-hub/mansouri-my-exercices#readme",
-  "type":"module"
+  "type": "module"
 }
