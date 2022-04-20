@@ -4,7 +4,7 @@
   "description": "exercices nodeJS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,10 @@
     "url": "https://github.com/Zewa-hub/mansouri-my-exercices/issues"
   },
   "homepage": "https://github.com/Zewa-hub/mansouri-my-exercices#readme",
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "axios": "^0.26.1",
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2"
+  }
 }
