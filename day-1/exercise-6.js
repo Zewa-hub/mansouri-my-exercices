@@ -1,4 +1,4 @@
-export const my_lenght_array = (arr)  => {
+export const my_length_array = (arr)  => {
 	let i = 0;
 	let result = [];
 	while (arr[i])
@@ -7,3 +7,4 @@ export const my_lenght_array = (arr)  => {
 	}
 	return i;
 }
+console.log(my_length_array([]))

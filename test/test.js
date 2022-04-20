@@ -88,7 +88,7 @@ describe('my_array_alpha', function () {
 describe('my_length_array', function () {
     describe('empty_array', function () {
         it('should return 0 value from empty array', function () {
-            assert.equal(my_length_array(), 0);
+            assert.equal(my_length_array([]), 0);
         });
     });
     describe('array', function () {
