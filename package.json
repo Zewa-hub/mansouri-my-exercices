@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/Zewa-hub/mansouri-my-exercices/issues"
   },
-  "homepage": "https://github.com/Zewa-hub/mansouri-my-exercices#readme"
+  "homepage": "https://github.com/Zewa-hub/mansouri-my-exercices#readme",
+  "type":"module"
 }
